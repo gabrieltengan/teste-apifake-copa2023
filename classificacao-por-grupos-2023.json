@@ -17,7 +17,7 @@
  {
   "grupo": "A",
   "selecao": "NORUEGA",
-  "sigla": "SUI",
+  "sigla": "NOR",
   "posicao": 2,
   "pontos": 4,
   "jogos": 3,
@@ -32,7 +32,7 @@
  {
   "grupo": "A",
   "selecao": "NOVA ZELÂNDIA",
-  "sigla": "SUI",
+  "sigla": "NZL",
   "posicao": 3,
   "pontos": 4,
   "jogos": 3,
@@ -47,7 +47,7 @@
  {
   "grupo": "A",
   "selecao": "FILIPINAS",
-  "sigla": "SUI",
+  "sigla": "FIL",
   "posicao": 4,
   "pontos": 3,
   "jogos": 3,
@@ -62,7 +62,7 @@
  {
   "grupo": "B",
   "selecao": "AUSTRÁLIA",
-  "sigla": "SUI",
+  "sigla": "AUS",
   "posicao": 1,
   "pontos": 6,
   "jogos": 3,
@@ -77,7 +77,7 @@
  {
   "grupo": "B",
   "selecao": "NIGÉRIA",
-  "sigla": "SUI",
+  "sigla": "NIG",
   "posicao": 2,
   "pontos": 5,
   "jogos": 3,
@@ -92,7 +92,7 @@
  {
   "grupo": "B",
   "selecao": "CANADÁ",
-  "sigla": "SUI",
+  "sigla": "CAN",
   "posicao": 3,
   "pontos": 4,
   "jogos": 3,
@@ -107,7 +107,7 @@
  {
   "grupo": "B",
   "selecao": "IRLANDA",
-  "sigla": "SUI",
+  "sigla": "IRL",
   "posicao": 4,
   "pontos": 1,
   "jogos": 3,
@@ -122,7 +122,7 @@
  {
   "grupo": "C",
   "selecao": "JAPÃO",
-  "sigla": "SUI",
+  "sigla": "JAP",
   "posicao": 1,
   "pontos": 9,
   "jogos": 3,
@@ -137,7 +137,7 @@
  {
   "grupo": "C",
   "selecao": "ESPANHA",
-  "sigla": "SUI",
+  "sigla": "ESP",
   "posicao": 2,
   "pontos": 6,
   "jogos": 3,
@@ -152,7 +152,7 @@
  {
   "grupo": "C",
   "selecao": "ZÂMBIA",
-  "sigla": "SUI",
+  "sigla": "ZAM",
   "posicao": 3,
   "pontos": 3,
   "jogos": 3,
@@ -167,7 +167,7 @@
  {
   "grupo": "C",
   "selecao": "COSTA RICA",
-  "sigla": "SUI",
+  "sigla": "COS",
   "posicao": 4,
   "pontos": 0,
   "jogos": 3,
@@ -182,7 +182,7 @@
  {
   "grupo": "D",
   "selecao": "INGLATERRA",
-  "sigla": "SUI",
+  "sigla": "ING",
   "posicao": 1,
   "pontos": 9,
   "jogos": 3,
@@ -197,7 +197,7 @@
  {
   "grupo": "D",
   "selecao": "DINAMARCA",
-  "sigla": "SUI",
+  "sigla": "DIN",
   "posicao": 2,
   "pontos": 6,
   "jogos": 3,
@@ -212,7 +212,7 @@
  {
   "grupo": "D",
   "selecao": "CHINA",
-  "sigla": "SUI",
+  "sigla": "CHI",
   "posicao": 3,
   "pontos": 3,
   "jogos": 3,
@@ -227,7 +227,7 @@
  {
   "grupo": "D",
   "selecao": "HAITI",
-  "sigla": "SUI",
+  "sigla": "HAI",
   "posicao": 4,
   "pontos": 0,
   "jogos": 3,
@@ -242,7 +242,7 @@
  {
   "grupo": "E",
   "selecao": "HOLANDA",
-  "sigla": "SUI",
+  "sigla": "HOL",
   "posicao": 1,
   "pontos": 7,
   "jogos": 3,
@@ -257,7 +257,7 @@
  {
   "grupo": "E",
   "selecao": "ESTADOS UNIDOS",
-  "sigla": "SUI",
+  "sigla": "EUA",
   "posicao": 2,
   "pontos": 5,
   "jogos": 3,
@@ -272,7 +272,7 @@
  {
   "grupo": "E",
   "selecao": "PORTUGAL",
-  "sigla": "SUI",
+  "sigla": "POR",
   "posicao": 3,
   "pontos": 4,
   "jogos": 3,
@@ -287,7 +287,7 @@
  {
   "grupo": "E",
   "selecao": "VIETNÃ",
-  "sigla": "SUI",
+  "sigla": "VIE",
   "posicao": 4,
   "pontos": 0,
   "jogos": 3,
@@ -302,7 +302,7 @@
  {
   "grupo": "F",
   "selecao": "FRANÇA",
-  "sigla": "SUI",
+  "sigla": "FRA",
   "posicao": 1,
   "pontos": 7,
   "jogos": 3,
@@ -317,7 +317,7 @@
  {
   "grupo": "F",
   "selecao": "JAMAICA",
-  "sigla": "SUI",
+  "sigla": "JAM",
   "posicao": 2,
   "pontos": 5,
   "jogos": 3,
@@ -332,7 +332,7 @@
  {
   "grupo": "F",
   "selecao": "BRASIL",
-  "sigla": "SUI",
+  "sigla": "BRA",
   "posicao": 3,
   "pontos": 4,
   "jogos": 3,
@@ -347,7 +347,7 @@
  {
   "grupo": "F",
   "selecao": "PANAMÁ",
-  "sigla": "SUI",
+  "sigla": "PAN",
   "posicao": 4,
   "pontos": 0,
   "jogos": 3,
@@ -362,7 +362,7 @@
  {
   "grupo": "G",
   "selecao": "SUÉCIA",
-  "sigla": "SUI",
+  "sigla": "SUE",
   "posicao": 1,
   "pontos": 9,
   "jogos": 3,
@@ -377,7 +377,7 @@
  {
   "grupo": "G",
   "selecao": "ÁFRICA DO SUL",
-  "sigla": "SUI",
+  "sigla": "AFS",
   "posicao": 2,
   "pontos": 4,
   "jogos": 3,
@@ -392,7 +392,7 @@
  {
   "grupo": "G",
   "selecao": "ITÁLIA",
-  "sigla": "SUI",
+  "sigla": "ITA",
   "posicao": 3,
   "pontos": 3,
   "jogos": 3,
@@ -407,7 +407,7 @@
  {
   "grupo": "G",
   "selecao": "ARGENTINA",
-  "sigla": "SUI",
+  "sigla": "ARG",
   "posicao": 4,
   "pontos": 1,
   "jogos": 3,
@@ -422,7 +422,7 @@
  {
   "grupo": "H",
   "selecao": "COLÔMBIA",
-  "sigla": "SUI",
+  "sigla": "COL",
   "posicao": 1,
   "pontos": 6,
   "jogos": 3,
@@ -437,7 +437,7 @@
  {
   "grupo": "H",
   "selecao": "MARROCOS",
-  "sigla": "SUI",
+  "sigla": "MAR",
   "posicao": 2,
   "pontos": 6,
   "jogos": 3,
@@ -452,7 +452,7 @@
  {
   "grupo": "H",
   "selecao": "ALEMANHA",
-  "sigla": "SUI",
+  "sigla": "ALE",
   "posicao": 3,
   "pontos": 4,
   "jogos": 3,
@@ -467,7 +467,7 @@
  {
   "grupo": "H",
   "selecao": "COREIA DO SUL",
-  "sigla": "SUI",
+  "sigla": "CDS",
   "posicao": 4,
   "pontos": 1,
   "jogos": 3,
